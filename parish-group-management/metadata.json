@@ -1,0 +1,5 @@
+{
+  "name": "Parish Group Management",
+  "description": "A web application for managing groups within a parish, featuring a flexible role and permission system, a WhatsApp-like communication platform, an event calendar, and designed for future scalability. The application is crafted to be intuitive and accessible for a diverse user base.",
+  "requestFramePermissions": []
+}
